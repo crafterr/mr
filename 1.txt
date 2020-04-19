@@ -14,3 +14,4 @@ linia dodana z master
 dafasdfasfsad
 doszla linia z master
 doszla linia z master2
+doszla linia z master3
