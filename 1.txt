@@ -11,3 +11,5 @@ osmalina
 dziewiata linia
 linia dodana z master
 dafasdfasfsad
+doszla linia z master
+
