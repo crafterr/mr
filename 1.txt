@@ -20,3 +20,4 @@ doszla linia z maswter5
 doszla lina z master6
 doszla linia z master7
 doszla linia z master8
+dpsz;a ;omoa z devel_copy
